@@ -1,0 +1,12 @@
+{
+    "name": "ccddr/pomoc-services-api",
+    "require": {
+        "spipu/html2pdf": "v5.2.2"
+    },
+    "authors": [
+        {
+            "name": "thomas",
+            "email": "tlemaire1610@gmail.com"
+        }
+    ]
+}
